@@ -2,19 +2,17 @@
 
 ### Backend Developer | Python | FastAPI
 
-Desarrolladora Backend con 3 años de experiencia desarrollando APIs y servicios backend con Python, complementada con experiencia en Ingeniería de Datos y procesamiento de datos.
+Matemática que acabó en el mundo de la programación y descubrió que también le gustaba :D
+Llevo 3 años trabajando como Backend Developer en proyectos tanto pequeños como grandes, y sigo teniendo ganas de aprender algo nuevo cada día.
+Empecé como Data Engineer y acabé descubriendo que lo mío era el Backend. Actualmente trabajo principalmente con Python y FastAPI.
 
-Me gusta aprender nuevas tecnologías, resolver problemas y trabajar en equipo.
+Me gusta aprender cosas nuevas, resolver problemas y, sobre todo, la lógica que hay detrás de todo ello.
 
-## Proyecto destacado
+## 🚀 Proyecto destacado
 
-### What Now
-
-Aplicación móvil para la toma de decisiones en grupo, desarrollada con un backend en Python y diseñada para ayudar a los grupos a encontrar actividades y tomar decisiones juntos.
+Actualmente estoy desarrollando el backend de una aplicación móvil que espero que vea la luz próximamente. 👀
 
 **Tecnologías:** Python, FastAPI, PostgreSQL, Docker, Redis, WebSockets
-
-[Repositorio en GitHub](https://github.com/Paula1610)
 
 ---
 
