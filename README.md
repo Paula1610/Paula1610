@@ -2,23 +2,23 @@
 
 ### Backend Developer | Python | FastAPI
 
-Backend Developer with 3 years of experience developing APIs and backend services with Python, complemented by experience in Data Engineering and data processing.
+Desarrolladora Backend con 3 años de experiencia desarrollando APIs y servicios backend con Python, complementada con experiencia en Ingeniería de Datos y procesamiento de datos.
 
-I enjoy learning new technologies, solving problems and working as part of a team.
+Me gusta aprender nuevas tecnologías, resolver problemas y trabajar en equipo.
 
-## Featured Project
+## Proyecto destacado
 
 ### What Now
 
-A mobile application for group decision-making, built with a Python backend and designed to help groups find activities and reach decisions together.
+Aplicación móvil para la toma de decisiones en grupo, desarrollada con un backend en Python y diseñada para ayudar a los grupos a encontrar actividades y tomar decisiones juntos.
 
-**Technologies:** Python, FastAPI, PostgreSQL, Docker, Redis, WebSockets
+**Tecnologías:** Python, FastAPI, PostgreSQL, Docker, Redis, WebSockets
 
-[GitHub Repository](https://github.com/Paula1610)
+[Repositorio en GitHub](https://github.com/Paula1610)
 
 ---
 
-## Technologies
+## Tecnologías
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
@@ -33,7 +33,7 @@ A mobile application for group decision-making, built with a Python backend and 
 
 ---
 
-## Contact
+## Contacto
 
 * LinkedIn: https://www.linkedin.com/in/paula-vieira-guerra
 * Email: [paulavieiraguerra@gmail.com](mailto:paulavieiraguerra@gmail.com)
