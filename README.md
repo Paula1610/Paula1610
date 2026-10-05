@@ -29,8 +29,6 @@ Actualmente estoy desarrollando el backend de una aplicación móvil que espero 
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![Pandas](https://skillicons.dev/icons?i=pandas)
 ![Jira](https://skillicons.dev/icons?i=jira)
-![Claude Code](https://skillicons.dev/icons?i=claude)
-![GitHub Copilot](https://skillicons.dev/icons?i=githubcopilot)
 
 ---
 
