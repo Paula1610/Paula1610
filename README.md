@@ -3,6 +3,7 @@
 ### Backend Developer | Python | FastAPI
 
 Matemática que acabó en el mundo de la programación y descubrió que también le gustaba :D
+
 Llevo 3 años trabajando como Backend Developer en proyectos tanto pequeños como grandes, y sigo teniendo ganas de aprender algo nuevo cada día.
 Empecé como Data Engineer y acabé descubriendo que lo mío era el Backend. Actualmente trabajo principalmente con Python y FastAPI.
 
